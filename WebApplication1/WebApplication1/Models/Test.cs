@@ -5,6 +5,7 @@
         public Test()
         {
             int a = 65;
+            int b = 1;
         }
     }
 }
